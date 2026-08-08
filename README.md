@@ -15,20 +15,21 @@
 <!-- ═══════════════════ JARVIS CORE ═══════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A1F&height=40&text=%E2%96%B8%20J%20A%20R%20V%20I%20S%20%20%20C%20O%20R%20E&fontSize=18&fontColor=00FFD1&fontAlignY=55" width="80%"/>
+
+  <img src="https://img.shields.io/badge/%E2%96%B8%20J%20A%20R%20V%20I%20S%20%20%20C%20O%20R%20E-00FFD1?style=for-the-badge&labelColor=0A0A1F"/>
 
   <br><br>
 
-  <img src="https://img.shields.io/badge/✓_IDENTITY-VERIFIED-00FFD1?style=flat-square&labelColor=0A0A1F"/>
-  <img src="https://img.shields.io/badge/✓_PROFILE-LOADED-00FFD1?style=flat-square&labelColor=0A0A1F"/>
-  <img src="https://img.shields.io/badge/✓_CODE_ENGINE-ACTIVE-00FFD1?style=flat-square&labelColor=0A0A1F"/>
-  <img src="https://img.shields.io/badge/✓_CONNECTION-STABLE-00FFD1?style=flat-square&labelColor=0A0A1F"/>
+  <img src="https://img.shields.io/badge/%E2%9C%93_IDENTITY-VERIFIED-00FFD1?style=flat-square&labelColor=0A0A1F"/>
+  <img src="https://img.shields.io/badge/%E2%9C%93_PROFILE-LOADED-00FFD1?style=flat-square&labelColor=0A0A1F"/>
+  <img src="https://img.shields.io/badge/%E2%9C%93_CODE_ENGINE-ACTIVE-00FFD1?style=flat-square&labelColor=0A0A1F"/>
+  <img src="https://img.shields.io/badge/%E2%9C%93_CONNECTION-STABLE-00FFD1?style=flat-square&labelColor=0A0A1F"/>
 
   <br>
 
-  <img src="https://img.shields.io/badge/✓_FIVEM_ENGINE-ONLINE-7B61FF?style=flat-square&labelColor=0A0A1F"/>
-  <img src="https://img.shields.io/badge/✓_WEB_ENGINE-ONLINE-7B61FF?style=flat-square&labelColor=0A0A1F"/>
-  <img src="https://img.shields.io/badge/✓_DATABASE-ONLINE-7B61FF?style=flat-square&labelColor=0A0A1F"/>
+  <img src="https://img.shields.io/badge/%E2%9C%93_FIVEM_ENGINE-ONLINE-7B61FF?style=flat-square&labelColor=0A0A1F"/>
+  <img src="https://img.shields.io/badge/%E2%9C%93_WEB_ENGINE-ONLINE-7B61FF?style=flat-square&labelColor=0A0A1F"/>
+  <img src="https://img.shields.io/badge/%E2%9C%93_DATABASE-ONLINE-7B61FF?style=flat-square&labelColor=0A0A1F"/>
 
   <br><br>
 
@@ -44,7 +45,7 @@
 
 <!-- ═══════════════════ SOBRE MIM ═══════════════════ -->
 
-### <img src="https://img.shields.io/badge/▸-SOBRE_MIM-00FFD1?style=flat-square&labelColor=050505"/>
+### <img src="https://img.shields.io/badge/%E2%96%B8_SOBRE-MIM-00FFD1?style=flat-square&labelColor=050505"/>
 
 <table>
 <tr>
@@ -98,31 +99,31 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
-### <img src="https://img.shields.io/badge/▸-TECH_STACK-00FFD1?style=flat-square&labelColor=050505"/>
+### <img src="https://img.shields.io/badge/%E2%96%B8_TECH-STACK-00FFD1?style=flat-square&labelColor=050505"/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A1F&height=30&text=%E2%8C%9C%20Languages%20%E2%8C%9D&fontSize=14&fontColor=00FFD1&fontAlignY=55" width="40%"/>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=js,ts,lua,html,css&theme=dark"/>
+<img src="https://img.shields.io/badge/%E2%8C%9C_LANGUAGES_%E2%8C%9D-00FFD1?style=for-the-badge&labelColor=0A0A1F"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A1F&height=30&text=%E2%8C%9C%20Frameworks%20%26%20Runtime%20%E2%8C%9D&fontSize=14&fontColor=7B61FF&fontAlignY=55" width="40%"/>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=js,ts,lua,html,css&theme=dark" alt="Languages"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A1F&height=30&text=%E2%8C%9C%20Tools%20%26%20Platforms%20%E2%8C%9D&fontSize=14&fontColor=E5E7EB&fontAlignY=55" width="40%"/>
+<img src="https://img.shields.io/badge/%E2%8C%9C_FRAMEWORKS_%26_RUNTIME_%E2%8C%9D-7B61FF?style=for-the-badge&labelColor=0A0A1F"/>
 
-<br>
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,docker&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express&theme=dark" alt="Frameworks"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/%E2%8C%9C_TOOLS_%26_PLATFORMS_%E2%8C%9D-E5E7EB?style=for-the-badge&labelColor=0A0A1F"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,docker&theme=dark" alt="Tools"/>
 
 </div>
 
@@ -130,7 +131,7 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 
 <!-- ═══════════════════ FERRAMENTAS ═══════════════════ -->
 
-### <img src="https://img.shields.io/badge/▸-FERRAMENTAS-00FFD1?style=flat-square&labelColor=050505"/>
+### <img src="https://img.shields.io/badge/%E2%96%B8_FERRA-MENTAS-00FFD1?style=flat-square&labelColor=050505"/>
 
 <div align="center">
 
@@ -148,46 +149,39 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 
 <!-- ═══════════════════ SYSTEM STATUS ═══════════════════ -->
 
-### <img src="https://img.shields.io/badge/▸-SYSTEM_STATUS-00FFD1?style=flat-square&labelColor=050505"/>
+### <img src="https://img.shields.io/badge/%E2%96%B8_SYSTEM-STATUS-00FFD1?style=flat-square&labelColor=050505"/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A1F&height=35&text=%E2%96%B8%20ACTIVE%20MODULES&fontSize=16&fontColor=00FFD1&fontAlignY=55" width="70%"/>
+<img src="https://img.shields.io/badge/%E2%96%B8_ACTIVE_MODULES-00FFD1?style=for-the-badge&labelColor=0A0A1F"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🎮_FIVEM-DEVELOPMENT-00FFD1?style=for-the-badge&labelColor=0A0A1F"/>
-<img src="https://img.shields.io/badge/████████████████████-ONLINE-00FFD1?style=flat-square&labelColor=12122B"/>
+<img src="https://img.shields.io/badge/FIVEM_DEVELOPMENT-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88_ONLINE-00FFD1?style=for-the-badge&labelColor=0A0A1F"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/⚡_JS%2FTS-JAVASCRIPT-00FFD1?style=for-the-badge&labelColor=0A0A1F"/>
-<img src="https://img.shields.io/badge/████████████████████-ONLINE-00FFD1?style=flat-square&labelColor=12122B"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT_%2F_TS-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88_ONLINE-00FFD1?style=for-the-badge&labelColor=0A0A1F"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/🐍_LUA-SCRIPTING-00FFD1?style=for-the-badge&labelColor=0A0A1F"/>
-<img src="https://img.shields.io/badge/████████████████████-ONLINE-00FFD1?style=flat-square&labelColor=12122B"/>
+<img src="https://img.shields.io/badge/LUA_SCRIPTING-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88_ONLINE-00FFD1?style=for-the-badge&labelColor=0A0A1F"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/🌐_WEB-DEVELOPMENT-7B61FF?style=for-the-badge&labelColor=0A0A1F"/>
-<img src="https://img.shields.io/badge/██████████████████░░-ACTIVE-7B61FF?style=flat-square&labelColor=12122B"/>
+<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91_ACTIVE-7B61FF?style=for-the-badge&labelColor=0A0A1F"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/🤖_BOT-DISCORD_SYS-7B61FF?style=for-the-badge&labelColor=0A0A1F"/>
-<img src="https://img.shields.io/badge/██████████████████░░-ACTIVE-7B61FF?style=flat-square&labelColor=12122B"/>
+<img src="https://img.shields.io/badge/DISCORD_SYSTEMS-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91_ACTIVE-7B61FF?style=for-the-badge&labelColor=0A0A1F"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/🗄️_DB-DATABASE_SYS-7B61FF?style=for-the-badge&labelColor=0A0A1F"/>
-<img src="https://img.shields.io/badge/█████████████████░░░-ACTIVE-7B61FF?style=flat-square&labelColor=12122B"/>
+<img src="https://img.shields.io/badge/DATABASE_SYSTEMS-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91_ACTIVE-7B61FF?style=for-the-badge&labelColor=0A0A1F"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/🛠️_AUTO-AUTOMATION-7B61FF?style=for-the-badge&labelColor=0A0A1F"/>
-<img src="https://img.shields.io/badge/█████████████████░░░-ACTIVE-7B61FF?style=flat-square&labelColor=12122B"/>
+<img src="https://img.shields.io/badge/AUTOMATION-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91_ACTIVE-7B61FF?style=for-the-badge&labelColor=0A0A1F"/>
 
 </div>
 
@@ -195,14 +189,14 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 
 <!-- ═══════════════════ PROJECTS ═══════════════════ -->
 
-### <img src="https://img.shields.io/badge/▸-PROJECTS-00FFD1?style=flat-square&labelColor=050505"/>
+### <img src="https://img.shields.io/badge/%E2%96%B8_PRO-JECTS-00FFD1?style=flat-square&labelColor=050505"/>
 
 <div align="center">
   <a href="https://github.com/davizinzknVkv/mains">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=davizinzknVkv&repo=mains&theme=transparent&hide_border=true&bg_color=050505&title_color=00FFD1&icon_color=7B61FF&text_color=E5E7EB"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=davizinzknVkv&repo=mains&theme=transparent&hide_border=true&bg_color=050505&title_color=00FFD1&icon_color=7B61FF&text_color=E5E7EB" alt="mains"/>
   </a>
   <a href="https://github.com/davizinzknVkv/CyberHacksKhann">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=davizinzknVkv&repo=CyberHacksKhann&theme=transparent&hide_border=true&bg_color=050505&title_color=00FFD1&icon_color=7B61FF&text_color=E5E7EB"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=davizinzknVkv&repo=CyberHacksKhann&theme=transparent&hide_border=true&bg_color=050505&title_color=00FFD1&icon_color=7B61FF&text_color=E5E7EB" alt="CyberHacksKhann"/>
   </a>
 </div>
 
@@ -210,7 +204,7 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 
 <!-- ═══════════════════ CURRENT OBJECTIVES ═══════════════════ -->
 
-### <img src="https://img.shields.io/badge/▸-CURRENT_OBJECTIVES-00FFD1?style=flat-square&labelColor=050505"/>
+### <img src="https://img.shields.io/badge/%E2%96%B8_CURRENT-OBJECTIVES-00FFD1?style=flat-square&labelColor=050505"/>
 
 <div align="center">
 
@@ -218,40 +212,40 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 
 <br><br>
 
-<img src="https://img.shields.io/badge/$_whoami-davizinzknVkv-00FFD1?style=flat-square&labelColor=0A0A1F&logo=windowsterminal&logoColor=00FFD1"/>
+<img src="https://img.shields.io/badge/%24_whoami-davizinzknVkv-00FFD1?style=flat-square&labelColor=0A0A1F&logo=windowsterminal&logoColor=00FFD1"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/$_cat_objectives.txt-→-E5E7EB?style=flat-square&labelColor=0A0A1F&logo=windowsterminal&logoColor=00FFD1"/>
+<img src="https://img.shields.io/badge/%24_cat_objectives.txt-%E2%86%92-E5E7EB?style=flat-square&labelColor=0A0A1F&logo=windowsterminal&logoColor=00FFD1"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/██████████████████████-Build_better_systems-00FFD1?style=for-the-badge&labelColor=0A0A1F"/>
+<img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-Build_better_systems-00FFD1?style=for-the-badge&labelColor=0A0A1F"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/████████████████████░░-Improve_architecture-00FFD1?style=for-the-badge&labelColor=0A0A1F"/>
+<img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-Improve_architecture-00FFD1?style=for-the-badge&labelColor=0A0A1F"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/███████████████████░░░-Create_new_FiveM_resources-7B61FF?style=for-the-badge&labelColor=0A0A1F"/>
+<img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91-Create_FiveM_resources-7B61FF?style=for-the-badge&labelColor=0A0A1F"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/██████████████████░░░░-Expand_web_development-7B61FF?style=for-the-badge&labelColor=0A0A1F"/>
+<img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91-Expand_web_dev-7B61FF?style=for-the-badge&labelColor=0A0A1F"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/█████████████████░░░░░-Automate_repetitive_tasks-7B61FF?style=for-the-badge&labelColor=0A0A1F"/>
+<img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91-Automate_tasks-7B61FF?style=for-the-badge&labelColor=0A0A1F"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/████████████████░░░░░░-Explore_new_technologies-7B61FF?style=for-the-badge&labelColor=0A0A1F"/>
+<img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91-Explore_new_tech-7B61FF?style=for-the-badge&labelColor=0A0A1F"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/$_systemctl_status-future.service-00FFD1?style=flat-square&labelColor=0A0A1F&logo=windowsterminal&logoColor=00FFD1"/>
-<img src="https://img.shields.io/badge/●_Active:-running-00FFD1?style=flat-square&labelColor=12122B"/>
+<img src="https://img.shields.io/badge/%24_systemctl_status-future.service-00FFD1?style=flat-square&labelColor=0A0A1F&logo=windowsterminal&logoColor=00FFD1"/>
+<img src="https://img.shields.io/badge/%E2%97%8F_Active:-running-00FFD1?style=flat-square&labelColor=12122B"/>
 
 </div>
 
@@ -259,65 +253,71 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 
 <!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
 
-### <img src="https://img.shields.io/badge/▸-GITHUB_ANALYTICS-00FFD1?style=flat-square&labelColor=050505"/>
+### <img src="https://img.shields.io/badge/%E2%96%B8_GITHUB-ANALYTICS-00FFD1?style=flat-square&labelColor=050505"/>
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=davizinzknVkv&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=050505&title_color=00FFD1&icon_color=7B61FF&text_color=E5E7EB"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davizinzknVkv&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=00FFD1&text_color=E5E7EB"/>
+  <a href="https://github.com/davizinzknVkv">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=davizinzknVkv&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=050505&title_color=00FFD1&icon_color=7B61FF&text_color=E5E7EB" alt="Stats"/>
+  </a>
+  <a href="https://github.com/davizinzknVkv">
+    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davizinzknVkv&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=00FFD1&text_color=E5E7EB" alt="Top Langs"/>
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=davizinzknVkv&theme=transparent&hide_border=true&background=050505&ring=00FFD1&fire=7B61FF&currStreakLabel=00FFD1&sideLabels=E5E7EB&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" width="75%"/>
+  <img src="https://streak-stats.demolab.com?user=davizinzknVkv&theme=transparent&hide_border=true&background=050505&ring=00FFD1&fire=7B61FF&currStreakLabel=00FFD1&sideLabels=E5E7EB&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" width="75%" alt="Streak"/>
 </div>
 
 ---
 
 <!-- ═══════════════════ ACTIVITY MATRIX ═══════════════════ -->
 
-### <img src="https://img.shields.io/badge/▸-ACTIVITY_MATRIX-00FFD1?style=flat-square&labelColor=050505"/>
+### <img src="https://img.shields.io/badge/%E2%96%B8_ACTIVITY-MATRIX-00FFD1?style=flat-square&labelColor=050505"/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davizinzknVkv&bg_color=050505&color=00FFD1&line=7B61FF&point=FFFFFF&area=true&area_color=7B61FF&hide_border=true&custom_title=DAVIZINZKNVKV%20%2F%2F%20ACTIVITY%20MATRIX" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davizinzknVkv&bg_color=050505&color=00FFD1&line=7B61FF&point=FFFFFF&area=true&area_color=7B61FF&hide_border=true&custom_title=DAVIZINZKNVKV%20%2F%2F%20ACTIVITY%20MATRIX" width="95%" alt="Activity Graph"/>
 </div>
 
 ---
 
 <!-- ═══════════════════ TROPHIES ═══════════════════ -->
 
-### <img src="https://img.shields.io/badge/▸-TROPHIES-00FFD1?style=flat-square&labelColor=050505"/>
+### <img src="https://img.shields.io/badge/%E2%96%B8_TROP-HIES-00FFD1?style=flat-square&labelColor=050505"/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=davizinzknVkv&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=davizinzknVkv&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%" alt="Trophies"/>
 </div>
 
 ---
 
 <!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
 
-### <img src="https://img.shields.io/badge/▸-CONTRIBUTION_SNAKE-00FFD1?style=flat-square&labelColor=050505"/>
+### <img src="https://img.shields.io/badge/%E2%96%B8_CONTRIBUTION-SNAKE-00FFD1?style=flat-square&labelColor=050505"/>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davizinzknVkv/davizinzknVkv/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davizinzknVkv/davizinzknVkv/output/github-contribution-grid-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/davizinzknVkv/davizinzknVkv/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake Animation"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/davizinzknVkv/davizinzknVkv/blob/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/davizinzknVkv/davizinzknVkv/blob/output/github-contribution-grid-snake.svg"/>
+    <img src="https://github.com/davizinzknVkv/davizinzknVkv/blob/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake Animation"/>
   </picture>
 </div>
+
+> **⚠️ Nota:** Para a Snake Animation funcionar, você precisa configurar a GitHub Action no seu repositório `davizinzknVkv/davizinzknVkv`. [Veja como configurar aqui.](#-como-configurar-a-snake-animation)
 
 ---
 
 <!-- ═══════════════════ SOCIAL ═══════════════════ -->
 
-### <img src="https://img.shields.io/badge/▸-SOCIAL-00FFD1?style=flat-square&labelColor=050505"/>
+### <img src="https://img.shields.io/badge/%E2%96%B8_SOC-IAL-00FFD1?style=flat-square&labelColor=050505"/>
 
 <div align="center">
-  <a href="https://github.com/davizinzknVkv"><img src="https://img.shields.io/badge/GitHub-davizinzknVkv-050505?style=for-the-badge&logo=github&logoColor=00FFD1"/></a>
-  <a href="https://www.instagram.com/davizinzkn/"><img src="https://img.shields.io/badge/Instagram-@davizinzkn-050505?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
-  <a href="https://discord.gg/fNtDbFqgvQ"><img src="https://img.shields.io/badge/Discord-ZKN-050505?style=for-the-badge&logo=discord&logoColor=5865F2"/></a>
-  <a href="https://www.youtube.com/@Davizinzknvkv"><img src="https://img.shields.io/badge/YouTube-@Davizinzknvkv-050505?style=for-the-badge&logo=youtube&logoColor=FF0000"/></a>
-  <a href="https://www.tiktok.com/@davizinzkn102k"><img src="https://img.shields.io/badge/TikTok-@davizinzkn102k-050505?style=for-the-badge&logo=tiktok&logoColor=FFFFFF"/></a>
+  <a href="https://github.com/davizinzknVkv"><img src="https://img.shields.io/badge/GitHub-davizinzknVkv-050505?style=for-the-badge&logo=github&logoColor=00FFD1" alt="GitHub"/></a>
+  <a href="https://www.instagram.com/davizinzkn/"><img src="https://img.shields.io/badge/Instagram-%40davizinzkn-050505?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
+  <a href="https://discord.gg/fNtDbFqgvQ"><img src="https://img.shields.io/badge/Discord-ZKN-050505?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/></a>
+  <a href="https://www.youtube.com/@Davizinzknvkv"><img src="https://img.shields.io/badge/YouTube-%40Davizinzknvkv-050505?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"/></a>
+  <a href="https://www.tiktok.com/@davizinzkn102k"><img src="https://img.shields.io/badge/TikTok-%40davizinzkn102k-050505?style=for-the-badge&logo=tiktok&logoColor=FFFFFF" alt="TikTok"/></a>
 </div>
 
 <br>
@@ -335,7 +335,7 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 
   <br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=davizinzknVkv&label=PROFILE+VIEWS&color=00FFD1&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=davizinzknVkv&label=PROFILE+VIEWS&color=00FFD1&style=for-the-badge" alt="Profile Views"/>
 
   <br><br>
 
@@ -347,3 +347,45 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFD1,40:12122B,70:0A0A1F,100:01010A&height=130&section=footer" width="100%"/>
 </div>
+
+---
+
+<!-- ═══════════════════ SNAKE ACTION SETUP ═══════════════════ -->
+
+<details>
+<summary><h3>🐍 Como configurar a Snake Animation</h3></summary>
+
+1. No seu repositório `davizinzknVkv/davizinzknVkv`, vá em **Actions** → **New workflow**
+2. Crie o arquivo `.github/workflows/snake.yml` com o conteúdo:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: davizinzknVkv
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Vá em **Actions** → **Generate Snake** → **Run workflow**
+4. Pronto! A snake será gerada automaticamente a cada 12 horas.
+
+</details>
