@@ -146,7 +146,7 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 <img src="https://img.shields.io/badge/HTML%2FCSS-Web-050505?style=for-the-badge&logo=html5&logoColor=E34F26"/>
 <img src="https://img.shields.io/badge/Discord-Automation-050505?style=for-the-badge&logo=discord&logoColor=5865F2"/>
 <img src="https://img.shields.io/badge/Git-Version-050505?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/VS_Code-Editor-050505?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-Editor-050505?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/></a>
 <img src="https://img.shields.io/badge/Linux-System-050505?style=for-the-badge&logo=linux&logoColor=FCC624"/>
 
 </div>
