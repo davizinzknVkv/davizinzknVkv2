@@ -135,13 +135,19 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 
 <div align="center">
 
-| 🎮 FiveM | ⚡ Node.js | 🧠 JavaScript | 🐍 Lua | 🗄️ SQL |
-|:---:|:---:|:---:|:---:|:---:|
-| Game Dev | Runtime | Language | Scripting | Database |
+<img src="https://img.shields.io/badge/FiveM-Game_Dev-050505?style=for-the-badge&logo=grand-theft-auto-v&logoColor=00FFD1"/>
+<img src="https://img.shields.io/badge/Node.js-Runtime-050505?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+<img src="https://img.shields.io/badge/JavaScript-Language-050505?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Lua-Scripting-050505?style=for-the-badge&logo=lua&logoColor=2C2D72"/>
+<img src="https://img.shields.io/badge/SQL-Database-050505?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
 
-| 🌐 HTML/CSS | 🤖 Discord | 🔧 Git | 💻 VS Code | 🐧 Linux |
-|:---:|:---:|:---:|:---:|:---:|
-| Web | Automation | Version | Editor | System |
+<br>
+
+<img src="https://img.shields.io/badge/HTML%2FCSS-Web-050505?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/Discord-Automation-050505?style=for-the-badge&logo=discord&logoColor=5865F2"/>
+<img src="https://img.shields.io/badge/Git-Version-050505?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/VS_Code-Editor-050505?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/Linux-System-050505?style=for-the-badge&logo=linux&logoColor=FCC624"/>
 
 </div>
 
@@ -287,7 +293,7 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 ### <img src="https://img.shields.io/badge/%E2%96%B8_TROP-HIES-00FFD1?style=flat-square&labelColor=050505"/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=davizinzknVkv&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%" alt="Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=davizinzknVkv&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%" alt="Trophies"/>
 </div>
 
 ---
