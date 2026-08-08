@@ -12,32 +12,37 @@
 
 <br>
 
+<!-- ═══════════════════ JARVIS CORE ═══════════════════ -->
+
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A1F&height=40&text=%E2%96%B8%20J%20A%20R%20V%20I%20S%20%20%20C%20O%20R%20E&fontSize=18&fontColor=00FFD1&fontAlignY=55" width="80%"/>
 
-```
-┌────────────────────────────────────────────────────────────┐
-│                    J A R V I S   C O R E                   │
-├────────────────────────────────────────────────────────────┤
-│                                                            │
-│  [✓] IDENTITY .................. VERIFIED                  │
-│  [✓] PROFILE ................... LOADED                    │
-│  [✓] CODE ENGINE ............... ACTIVE                    │
-│  [✓] FIVE-M ENGINE ............. ONLINE                    │
-│  [✓] WEB ENGINE ................ ONLINE                    │
-│  [✓] DATABASE .................. ONLINE                    │
-│  [✓] CONNECTION ................ STABLE                    │
-│                                                            │
-│  USER   →  davizinzknVkv                                  │
-│  ALIAS  →  Davizinzkn                                     │
-│  ROLE   →  Developer                                      │
-│  STATUS →  ONLINE                                         │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
+  <br><br>
 
+  <img src="https://img.shields.io/badge/✓_IDENTITY-VERIFIED-00FFD1?style=flat-square&labelColor=0A0A1F"/>
+  <img src="https://img.shields.io/badge/✓_PROFILE-LOADED-00FFD1?style=flat-square&labelColor=0A0A1F"/>
+  <img src="https://img.shields.io/badge/✓_CODE_ENGINE-ACTIVE-00FFD1?style=flat-square&labelColor=0A0A1F"/>
+  <img src="https://img.shields.io/badge/✓_CONNECTION-STABLE-00FFD1?style=flat-square&labelColor=0A0A1F"/>
+
+  <br>
+
+  <img src="https://img.shields.io/badge/✓_FIVEM_ENGINE-ONLINE-7B61FF?style=flat-square&labelColor=0A0A1F"/>
+  <img src="https://img.shields.io/badge/✓_WEB_ENGINE-ONLINE-7B61FF?style=flat-square&labelColor=0A0A1F"/>
+  <img src="https://img.shields.io/badge/✓_DATABASE-ONLINE-7B61FF?style=flat-square&labelColor=0A0A1F"/>
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/USER-davizinzknVkv-FFFFFF?style=for-the-badge&labelColor=0A0A1F&color=12122B"/>
+  <img src="https://img.shields.io/badge/ALIAS-Davizinzkn-FFFFFF?style=for-the-badge&labelColor=0A0A1F&color=12122B"/>
+  <img src="https://img.shields.io/badge/ROLE-Developer-FFFFFF?style=for-the-badge&labelColor=0A0A1F&color=12122B"/>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FFD1?style=for-the-badge&labelColor=0A0A1F"/>
 </div>
 
+<br>
+
 ---
+
+<!-- ═══════════════════ SOBRE MIM ═══════════════════ -->
 
 ### <img src="https://img.shields.io/badge/▸-SOBRE_MIM-00FFD1?style=flat-square&labelColor=050505"/>
 
@@ -67,23 +72,23 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 </td>
 <td width="35%" align="center">
 
-```
-┌───────────────────────┐
-│   SYSTEM PROFILE      │
-├───────────────────────┤
-│                       │
-│  NAME  → Davi         │
-│  USER  → davizinzknVkv│
-│  ALIAS → Davizinzkn   │
-│                       │
-│  ROLE  → Developer    │
-│  MODE  → Creative     │
-│                       │
-│  CORE  → ZKN          │
-│  STATUS→ ONLINE       │
-│                       │
-└───────────────────────┘
-```
+<img src="https://img.shields.io/badge/SYSTEM-PROFILE-00FFD1?style=for-the-badge&labelColor=0A0A1F"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NAME-Davi-E5E7EB?style=flat-square&labelColor=12122B"/>
+<br>
+<img src="https://img.shields.io/badge/USER-davizinzknVkv-E5E7EB?style=flat-square&labelColor=12122B"/>
+<br>
+<img src="https://img.shields.io/badge/ALIAS-Davizinzkn-E5E7EB?style=flat-square&labelColor=12122B"/>
+<br>
+<img src="https://img.shields.io/badge/ROLE-Developer-00FFD1?style=flat-square&labelColor=12122B"/>
+<br>
+<img src="https://img.shields.io/badge/MODE-Creative-7B61FF?style=flat-square&labelColor=12122B"/>
+<br>
+<img src="https://img.shields.io/badge/CORE-ZKN-00FFD1?style=flat-square&labelColor=12122B"/>
+<br>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00FFD1?style=flat-square&labelColor=12122B"/>
 
 </td>
 </tr>
@@ -91,26 +96,39 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 
 ---
 
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+
 ### <img src="https://img.shields.io/badge/▸-TECH_STACK-00FFD1?style=flat-square&labelColor=050505"/>
 
 <div align="center">
 
-**⌜ Languages ⌝**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A1F&height=30&text=%E2%8C%9C%20Languages%20%E2%8C%9D&fontSize=14&fontColor=00FFD1&fontAlignY=55" width="40%"/>
+
+<br>
+
 <img src="https://skillicons.dev/icons?i=js,ts,lua,html,css&theme=dark"/>
 
 <br><br>
 
-**⌜ Frameworks & Runtime ⌝**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A1F&height=30&text=%E2%8C%9C%20Frameworks%20%26%20Runtime%20%E2%8C%9D&fontSize=14&fontColor=7B61FF&fontAlignY=55" width="40%"/>
+
+<br>
+
 <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express&theme=dark"/>
 
 <br><br>
 
-**⌜ Tools & Platforms ⌝**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A1F&height=30&text=%E2%8C%9C%20Tools%20%26%20Platforms%20%E2%8C%9D&fontSize=14&fontColor=E5E7EB&fontAlignY=55" width="40%"/>
+
+<br>
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,docker&theme=dark"/>
 
 </div>
 
 ---
+
+<!-- ═══════════════════ FERRAMENTAS ═══════════════════ -->
 
 ### <img src="https://img.shields.io/badge/▸-FERRAMENTAS-00FFD1?style=flat-square&labelColor=050505"/>
 
@@ -128,29 +146,54 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 
 ---
 
+<!-- ═══════════════════ SYSTEM STATUS ═══════════════════ -->
+
 ### <img src="https://img.shields.io/badge/▸-SYSTEM_STATUS-00FFD1?style=flat-square&labelColor=050505"/>
 
 <div align="center">
 
-```
-╭────────────────────────────────────────────────────────────╮
-│                      ACTIVE MODULES                        │
-├────────────────────────────────────────────────────────────┤
-│                                                            │
-│  [FIVEM]       DEVELOPMENT    ████████████████████  ONLINE │
-│  [JS/TS]       JAVASCRIPT     ████████████████████  ONLINE │
-│  [LUA]         SCRIPTING      ████████████████████  ONLINE │
-│  [WEB]         DEVELOPMENT    ██████████████████░░  ACTIVE │
-│  [BOT]         DISCORD SYS    ██████████████████░░  ACTIVE │
-│  [DB]          DATABASE SYS   █████████████████░░░  ACTIVE │
-│  [AUTO]        AUTOMATION     █████████████████░░░  ACTIVE │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A1F&height=35&text=%E2%96%B8%20ACTIVE%20MODULES&fontSize=16&fontColor=00FFD1&fontAlignY=55" width="70%"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🎮_FIVEM-DEVELOPMENT-00FFD1?style=for-the-badge&labelColor=0A0A1F"/>
+<img src="https://img.shields.io/badge/████████████████████-ONLINE-00FFD1?style=flat-square&labelColor=12122B"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/⚡_JS%2FTS-JAVASCRIPT-00FFD1?style=for-the-badge&labelColor=0A0A1F"/>
+<img src="https://img.shields.io/badge/████████████████████-ONLINE-00FFD1?style=flat-square&labelColor=12122B"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/🐍_LUA-SCRIPTING-00FFD1?style=for-the-badge&labelColor=0A0A1F"/>
+<img src="https://img.shields.io/badge/████████████████████-ONLINE-00FFD1?style=flat-square&labelColor=12122B"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/🌐_WEB-DEVELOPMENT-7B61FF?style=for-the-badge&labelColor=0A0A1F"/>
+<img src="https://img.shields.io/badge/██████████████████░░-ACTIVE-7B61FF?style=flat-square&labelColor=12122B"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/🤖_BOT-DISCORD_SYS-7B61FF?style=for-the-badge&labelColor=0A0A1F"/>
+<img src="https://img.shields.io/badge/██████████████████░░-ACTIVE-7B61FF?style=flat-square&labelColor=12122B"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/🗄️_DB-DATABASE_SYS-7B61FF?style=for-the-badge&labelColor=0A0A1F"/>
+<img src="https://img.shields.io/badge/█████████████████░░░-ACTIVE-7B61FF?style=flat-square&labelColor=12122B"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/🛠️_AUTO-AUTOMATION-7B61FF?style=for-the-badge&labelColor=0A0A1F"/>
+<img src="https://img.shields.io/badge/█████████████████░░░-ACTIVE-7B61FF?style=flat-square&labelColor=12122B"/>
 
 </div>
 
 ---
+
+<!-- ═══════════════════ PROJECTS ═══════════════════ -->
 
 ### <img src="https://img.shields.io/badge/▸-PROJECTS-00FFD1?style=flat-square&labelColor=050505"/>
 
@@ -165,36 +208,56 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 
 ---
 
+<!-- ═══════════════════ CURRENT OBJECTIVES ═══════════════════ -->
+
 ### <img src="https://img.shields.io/badge/▸-CURRENT_OBJECTIVES-00FFD1?style=flat-square&labelColor=050505"/>
 
 <div align="center">
 
-```
-┌── davizinzknVkv@zkn ── ~/projects ─────────────────────────┐
-│                                                            │
-│  $ whoami                                                  │
-│  > davizinzknVkv                                           │
-│                                                            │
-│  $ cat objectives.txt                                      │
-│                                                            │
-│  [██████████████████████] Build better systems             │
-│  [████████████████████░░] Improve architecture             │
-│  [███████████████████░░░] Create new FiveM resources       │
-│  [██████████████████░░░░] Expand web development           │
-│  [█████████████████░░░░░] Automate repetitive tasks        │
-│  [████████████████░░░░░░] Explore new technologies         │
-│                                                            │
-│  $ systemctl status future.service                         │
-│  ● future.service - Digital Future                         │
-│    Active: running                                         │
-│                                                            │
-│  $ _                                                       │
-└────────────────────────────────────────────────────────────┘
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A1F,100:12122B&height=40&text=davizinzknVkv%40zkn%20~%2Fprojects&fontSize=16&fontColor=00FFD1&fontAlignY=55" width="80%"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/$_whoami-davizinzknVkv-00FFD1?style=flat-square&labelColor=0A0A1F&logo=windowsterminal&logoColor=00FFD1"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/$_cat_objectives.txt-→-E5E7EB?style=flat-square&labelColor=0A0A1F&logo=windowsterminal&logoColor=00FFD1"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/██████████████████████-Build_better_systems-00FFD1?style=for-the-badge&labelColor=0A0A1F"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/████████████████████░░-Improve_architecture-00FFD1?style=for-the-badge&labelColor=0A0A1F"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/███████████████████░░░-Create_new_FiveM_resources-7B61FF?style=for-the-badge&labelColor=0A0A1F"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/██████████████████░░░░-Expand_web_development-7B61FF?style=for-the-badge&labelColor=0A0A1F"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/█████████████████░░░░░-Automate_repetitive_tasks-7B61FF?style=for-the-badge&labelColor=0A0A1F"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/████████████████░░░░░░-Explore_new_technologies-7B61FF?style=for-the-badge&labelColor=0A0A1F"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/$_systemctl_status-future.service-00FFD1?style=flat-square&labelColor=0A0A1F&logo=windowsterminal&logoColor=00FFD1"/>
+<img src="https://img.shields.io/badge/●_Active:-running-00FFD1?style=flat-square&labelColor=12122B"/>
 
 </div>
 
 ---
+
+<!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
 
 ### <img src="https://img.shields.io/badge/▸-GITHUB_ANALYTICS-00FFD1?style=flat-square&labelColor=050505"/>
 
@@ -211,6 +274,8 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 
 ---
 
+<!-- ═══════════════════ ACTIVITY MATRIX ═══════════════════ -->
+
 ### <img src="https://img.shields.io/badge/▸-ACTIVITY_MATRIX-00FFD1?style=flat-square&labelColor=050505"/>
 
 <div align="center">
@@ -219,6 +284,8 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 
 ---
 
+<!-- ═══════════════════ TROPHIES ═══════════════════ -->
+
 ### <img src="https://img.shields.io/badge/▸-TROPHIES-00FFD1?style=flat-square&labelColor=050505"/>
 
 <div align="center">
@@ -226,6 +293,8 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 </div>
 
 ---
+
+<!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
 
 ### <img src="https://img.shields.io/badge/▸-CONTRIBUTION_SNAKE-00FFD1?style=flat-square&labelColor=050505"/>
 
@@ -238,6 +307,8 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 </div>
 
 ---
+
+<!-- ═══════════════════ SOCIAL ═══════════════════ -->
 
 ### <img src="https://img.shields.io/badge/▸-SOCIAL-00FFD1?style=flat-square&labelColor=050505"/>
 
@@ -253,28 +324,24 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 
 ---
 
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=%3E%3E+Connection+established.;%3E%3E+All+systems+operational.;%3E%3E+Thanks+for+stopping+by.;%3E%3E+See+you+in+the+next+commit." alt="Footer Typing"/>
 
   <br><br>
 
-```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║              "BUILD. BREAK. LEARN. REPEAT."                ║
-║                                                            ║
-║                   DAVIZINZKNVKV // ZKN                     ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A1F,100:12122B&height=80&text=%22BUILD.%20BREAK.%20LEARN.%20REPEAT.%22&fontSize=22&fontColor=00FFD1&fontAlignY=35&desc=DAVIZINZKNVKV%20%2F%2F%20ZKN&descSize=14&descColor=7B61FF&descAlignY=70" width="80%"/>
 
-  <br>
+  <br><br>
 
   <img src="https://komarev.com/ghpvc/?username=davizinzknVkv&label=PROFILE+VIEWS&color=00FFD1&style=for-the-badge"/>
 
   <br><br>
 
-  **`SYSTEM ONLINE`** • **`CODE RUNNING`** • **`FUTURE LOADING`**
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FFD1?style=flat-square&labelColor=050505"/>
+  <img src="https://img.shields.io/badge/CODE-RUNNING-7B61FF?style=flat-square&labelColor=050505"/>
+  <img src="https://img.shields.io/badge/FUTURE-LOADING-E5E7EB?style=flat-square&labelColor=050505"/>
 </div>
 
 <div align="center">
