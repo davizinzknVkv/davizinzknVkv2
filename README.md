@@ -353,31 +353,50 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 <!-- ═══════════════════ SNAKE ACTION SETUP ═══════════════════ -->
 
 <details>
-<summary><h3>🐍 Como configurar a Snake Animation</h3></summary>
+<summary><h3>🐍 Como configurar a Snake Animation (passo a passo)</h3></summary>
 
-1. No seu repositório `davizinzknVkv/davizinzknVkv`, vá em **Actions** → **New workflow**
-2. Crie o arquivo `.github/workflows/snake.yml` com o conteúdo:
+<br>
+
+**O seu repo `davizinzknVkv/davizinzknVkv` atualmente só tem o `README.md` — falta criar o arquivo da Action.**
+
+### Método mais fácil (pelo navegador):
+
+1. Abra: **https://github.com/davizinzknVkv/davizinzknVkv**
+2. Clique no botão **"Add file"** → **"Create new file"**
+3. No campo do nome do arquivo, digite exatamente:
+   ```
+   .github/workflows/snake.yml
+   ```
+   (o GitHub cria as pastas automaticamente quando você coloca as `/`)
+4. Cole este conteúdo no editor:
 
 ```yaml
 name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: davizinzknVkv
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
@@ -385,7 +404,17 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-3. Vá em **Actions** → **Generate Snake** → **Run workflow**
-4. Pronto! A snake será gerada automaticamente a cada 12 horas.
+5. Embaixo, em **"Commit changes"**, deixe a mensagem padrão e clique **"Commit changes"** (verde)
+6. Agora vá em: **https://github.com/davizinzknVkv/davizinzknVkv/actions**
+7. Clique em **"Generate Snake"** na barra lateral esquerda
+8. Clique no botão **"Run workflow"** → **"Run workflow"** (verde)
+9. Espere 1-2 minutos até o ícone ficar ✅ verde
+10. Pronto! A branch `output` é criada com os SVGs e a snake aparece no perfil 🐍
+
+### ⚠️ Problemas comuns:
+
+- **"Run workflow" não aparece?** → Verifique se o arquivo foi salvo no caminho certo: `.github/workflows/snake.yml`
+- **Action falhou com erro de permissão?** → Vá em **Settings** → **Actions** → **General** → Em "Workflow permissions" marque **"Read and write permissions"** → Save
+- **Snake não aparece no perfil?** → Espere 5 minutos pro GitHub atualizar o cache das imagens
 
 </details>
