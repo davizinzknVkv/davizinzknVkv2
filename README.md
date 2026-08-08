@@ -135,7 +135,7 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/FiveM-Game_Dev-050505?style=for-the-badge&logo=grand-theft-auto-v&logoColor=00FFD1"/>
+<a href="https://fivem.net/"><img src="https://img.shields.io/badge/FiveM-Game_Dev-050505?style=for-the-badge&logo=fivem&logoColor=00FFD1"/></a>
 <img src="https://img.shields.io/badge/Node.js-Runtime-050505?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
 <img src="https://img.shields.io/badge/JavaScript-Language-050505?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/Lua-Scripting-050505?style=for-the-badge&logo=lua&logoColor=2C2D72"/>
