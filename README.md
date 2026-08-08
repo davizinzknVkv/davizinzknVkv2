@@ -252,4 +252,3 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFD1,40:12122B,70:0A0A1F,100:01010A&height=130&section=footer" width="100%"/>
 </div>
-```
