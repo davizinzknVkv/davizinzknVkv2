@@ -391,6 +391,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -401,13 +404,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Deploy to output branch
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          folder: dist
+          clean: true
 ```
 
 5. Embaixo, em **"Commit changes"**, deixe a mensagem padrão e clique **"Commit changes"** (verde)
@@ -420,7 +423,10 @@ jobs:
 ### ⚠️ Problemas comuns:
 
 - **"Run workflow" não aparece?** → Verifique se o arquivo foi salvo no caminho certo: `.github/workflows/snake.yml`
-- **Action falhou com erro de permissão?** → Vá em **Settings** → **Actions** → **General** → Em "Workflow permissions" marque **"Read and write permissions"** → Save
-- **Snake não aparece no perfil?** → Espere 5 minutos pro GitHub atualizar o cache das imagens
+- **Action falhou com erro de permissão (403)?** → Vá em **Settings** → **Actions** → **General** → Em "Workflow permissions" marque **"Read and write permissions"** → Save.
+- **Erro "billing issue" (conta bloqueada)?** → O GitHub bloqueou seu Actions por faturamento. Vá em **Settings** → **Billing** para pagar faturas pendentes ou mude o plano para Free. Como alternativa, gere localmente rodando no seu terminal:
+  `npx snk davizinzknVkv dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg`
+  E depois envie apenas a pasta `dist` para a branch `output` do seu repositório.
+- **Snake não aparece no perfil?** → Espere 5 minutos pro GitHub atualizar o cache das imagens.
 
 </details>
