@@ -193,10 +193,10 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 
 <div align="center">
   <a href="https://github.com/davizinzknVkv/mains">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=davizinzknVkv&repo=mains&theme=transparent&hide_border=true&bg_color=050505&title_color=00FFD1&icon_color=7B61FF&text_color=E5E7EB" alt="mains"/>
+    <img src="https://github-readme-stats.zohan.tech/api/pin/?username=davizinzknVkv&repo=mains&theme=transparent&hide_border=true&bg_color=050505&title_color=00FFD1&icon_color=7B61FF&text_color=E5E7EB" alt="mains"/>
   </a>
   <a href="https://github.com/davizinzknVkv/CyberHacksKhann">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=davizinzknVkv&repo=CyberHacksKhann&theme=transparent&hide_border=true&bg_color=050505&title_color=00FFD1&icon_color=7B61FF&text_color=E5E7EB" alt="CyberHacksKhann"/>
+    <img src="https://github-readme-stats.zohan.tech/api/pin/?username=davizinzknVkv&repo=CyberHacksKhann&theme=transparent&hide_border=true&bg_color=050505&title_color=00FFD1&icon_color=7B61FF&text_color=E5E7EB" alt="CyberHacksKhann"/>
   </a>
 </div>
 
@@ -257,10 +257,10 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 
 <div align="center">
   <a href="https://github.com/davizinzknVkv">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=davizinzknVkv&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=050505&title_color=00FFD1&icon_color=7B61FF&text_color=E5E7EB" alt="Stats"/>
+    <img width="49%" src="https://github-readme-stats.zohan.tech/api?username=davizinzknVkv&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=050505&title_color=00FFD1&icon_color=7B61FF&text_color=E5E7EB" alt="Stats"/>
   </a>
   <a href="https://github.com/davizinzknVkv">
-    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davizinzknVkv&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=00FFD1&text_color=E5E7EB" alt="Top Langs"/>
+    <img width="41%" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=davizinzknVkv&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=00FFD1&text_color=E5E7EB" alt="Top Langs"/>
   </a>
 </div>
 
@@ -298,13 +298,13 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/davizinzknVkv/davizinzknVkv/blob/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/davizinzknVkv/davizinzknVkv/blob/output/github-contribution-grid-snake.svg"/>
-    <img src="https://github.com/davizinzknVkv/davizinzknVkv/blob/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake Animation"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davizinzknVkv/davizinzknVkv/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davizinzknVkv/davizinzknVkv/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/davizinzknVkv/davizinzknVkv/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake Animation"/>
   </picture>
 </div>
 
-> **⚠️ Nota:** Para a Snake Animation funcionar, você precisa configurar a GitHub Action no seu repositório `davizinzknVkv/davizinzknVkv`. [Veja como configurar aqui.](#-como-configurar-a-snake-animation)
+> **⚠️ Para a Snake aparecer**, configure a GitHub Action abaixo — ela cria a branch `output` automaticamente. Só precisa fazer **1 vez**. [Clique aqui para ver como ↓](#-como-configurar-a-snake-animation)
 
 ---
 
