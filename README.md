@@ -1,5 +1,3 @@
-
-```markdown
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:01010A,30:0A0A1F,60:12122B,100:00FFD1&height=250&section=header&text=DAVIZINZKN&fontSize=70&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&desc=SYSTEM%20%2F%2F%20FIVEM%20%2F%2F%20LUA%20%2F%2F%20WEB%20%2F%2F%20CORE&descAlignY=60&descSize=16" width="100%"/>
 
@@ -16,7 +14,7 @@
 
 <div align="center">
 
-```text
+```
 ┌────────────────────────────────────────────────────────────┐
 │                    J A R V I S   C O R E                   │
 ├────────────────────────────────────────────────────────────┤
@@ -29,17 +27,19 @@
 │  [✓] DATABASE .................. ONLINE                    │
 │  [✓] CONNECTION ................ STABLE                    │
 │                                                            │
-│  USER   →  davizinzknVkv                                   │
-│  ALIAS  →  Davizinzkn                                      │
-│  ROLE   →  Developer                                       │
-│  STATUS →  ONLINE                                          │
+│  USER   →  davizinzknVkv                                  │
+│  ALIAS  →  Davizinzkn                                     │
+│  ROLE   →  Developer                                      │
+│  STATUS →  ONLINE                                         │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
-### ▸ SOBRE MIM
+---
+
+### <img src="https://img.shields.io/badge/▸-SOBRE_MIM-00FFD1?style=flat-square&labelColor=050505"/>
 
 <table>
 <tr>
@@ -47,7 +47,7 @@
 
 **Olá, eu sou Davi** — também conhecido como **Davizinzkn**.
 
-Desenvolvedor focado em transformar ideias em sistemas reais.  
+Desenvolvedor focado em transformar ideias em sistemas reais.
 Trabalho principalmente com:
 
 - 🎮 **FiveM / GTA RP**
@@ -67,7 +67,7 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 </td>
 <td width="35%" align="center">
 
-```text
+```
 ┌───────────────────────┐
 │   SYSTEM PROFILE      │
 ├───────────────────────┤
@@ -89,26 +89,30 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 </tr>
 </table>
 
-### ▸ TECH STACK
+---
+
+### <img src="https://img.shields.io/badge/▸-TECH_STACK-00FFD1?style=flat-square&labelColor=050505"/>
 
 <div align="center">
 
-**Languages**  
-<img src="https://skillicons.dev/icons?i=js,ts,lua,html,css,sql&theme=dark"/>
+**⌜ Languages ⌝**
+<img src="https://skillicons.dev/icons?i=js,ts,lua,html,css&theme=dark"/>
 
 <br><br>
 
-**Frameworks & Runtime**  
+**⌜ Frameworks & Runtime ⌝**
 <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express&theme=dark"/>
 
 <br><br>
 
-**Tools**  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows&theme=dark"/>
+**⌜ Tools & Platforms ⌝**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,docker&theme=dark"/>
 
 </div>
 
-### ▸ FERRAMENTAS
+---
+
+### <img src="https://img.shields.io/badge/▸-FERRAMENTAS-00FFD1?style=flat-square&labelColor=050505"/>
 
 <div align="center">
 
@@ -122,29 +126,33 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 
 </div>
 
-### ▸ SYSTEM STATUS
+---
+
+### <img src="https://img.shields.io/badge/▸-SYSTEM_STATUS-00FFD1?style=flat-square&labelColor=050505"/>
 
 <div align="center">
 
-```text
+```
 ╭────────────────────────────────────────────────────────────╮
-│                     ACTIVE MODULES                         │
+│                      ACTIVE MODULES                        │
 ├────────────────────────────────────────────────────────────┤
 │                                                            │
-│  🎮 FIVE-M DEVELOPMENT     ████████████████████  ONLINE    │
-│  ⚡ JAVASCRIPT              ████████████████████  ONLINE    │
-│  🐍 LUA                    ████████████████████  ONLINE    │
-│  🌐 WEB DEVELOPMENT        ██████████████████░░  ACTIVE    │
-│  🤖 DISCORD SYSTEMS        ██████████████████░░  ACTIVE    │
-│  🗄️ DATABASE SYSTEMS       █████████████████░░░  ACTIVE    │
-│  🛠️ AUTOMATION             █████████████████░░░  ACTIVE    │
+│  [FIVEM]       DEVELOPMENT    ████████████████████  ONLINE │
+│  [JS/TS]       JAVASCRIPT     ████████████████████  ONLINE │
+│  [LUA]         SCRIPTING      ████████████████████  ONLINE │
+│  [WEB]         DEVELOPMENT    ██████████████████░░  ACTIVE │
+│  [BOT]         DISCORD SYS    ██████████████████░░  ACTIVE │
+│  [DB]          DATABASE SYS   █████████████████░░░  ACTIVE │
+│  [AUTO]        AUTOMATION     █████████████████░░░  ACTIVE │
 │                                                            │
 ╰────────────────────────────────────────────────────────────╯
 ```
 
 </div>
 
-### ▸ PROJECTS
+---
+
+### <img src="https://img.shields.io/badge/▸-PROJECTS-00FFD1?style=flat-square&labelColor=050505"/>
 
 <div align="center">
   <a href="https://github.com/davizinzknVkv/mains">
@@ -155,11 +163,13 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
   </a>
 </div>
 
-### ▸ CURRENT OBJECTIVES
+---
+
+### <img src="https://img.shields.io/badge/▸-CURRENT_OBJECTIVES-00FFD1?style=flat-square&labelColor=050505"/>
 
 <div align="center">
 
-```text
+```
 ┌── davizinzknVkv@zkn ── ~/projects ─────────────────────────┐
 │                                                            │
 │  $ whoami                                                  │
@@ -184,36 +194,52 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 
 </div>
 
-### ▸ GITHUB ANALYTICS
+---
+
+### <img src="https://img.shields.io/badge/▸-GITHUB_ANALYTICS-00FFD1?style=flat-square&labelColor=050505"/>
 
 <div align="center">
   <img height="175" src="https://github-readme-stats.vercel.app/api?username=davizinzknVkv&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=050505&title_color=00FFD1&icon_color=7B61FF&text_color=E5E7EB"/>
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davizinzknVkv&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=00FFD1&text_color=E5E7EB"/>
-  
-  <br><br>
-  
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=davizinzknVkv&theme=transparent&hide_border=true&background=050505&ring=00FFD1&fire=7B61FF&currStreakLabel=00FFD1&sideLabels=E5E7EB&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" width="75%"/>
 </div>
 
-### ▸ ACTIVITY MATRIX
+---
+
+### <img src="https://img.shields.io/badge/▸-ACTIVITY_MATRIX-00FFD1?style=flat-square&labelColor=050505"/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=davizinzknVkv&bg_color=050505&color=00FFD1&line=7B61FF&point=FFFFFF&area=true&area_color=7B61FF&hide_border=true&custom_title=DAVIZINZKNVKV%20%2F%2F%20ACTIVITY%20MATRIX" width="95%"/>
 </div>
 
-### ▸ TROPHIES
+---
+
+### <img src="https://img.shields.io/badge/▸-TROPHIES-00FFD1?style=flat-square&labelColor=050505"/>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=davizinzknVkv&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%"/>
 </div>
 
-### ▸ CONTRIBUTION SNAKE
+---
+
+### <img src="https://img.shields.io/badge/▸-CONTRIBUTION_SNAKE-00FFD1?style=flat-square&labelColor=050505"/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/davizinzknVkv/davizinzknVkv/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davizinzknVkv/davizinzknVkv/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davizinzknVkv/davizinzknVkv/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/davizinzknVkv/davizinzknVkv/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake Animation"/>
+  </picture>
 </div>
 
-### ▸ SOCIAL
+---
+
+### <img src="https://img.shields.io/badge/▸-SOCIAL-00FFD1?style=flat-square&labelColor=050505"/>
 
 <div align="center">
   <a href="https://github.com/davizinzknVkv"><img src="https://img.shields.io/badge/GitHub-davizinzknVkv-050505?style=for-the-badge&logo=github&logoColor=00FFD1"/></a>
@@ -225,12 +251,14 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 
 <br>
 
+---
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=%3E%3E+Connection+established.;%3E%3E+All+systems+operational.;%3E%3E+Thanks+for+stopping+by.;%3E%3E+See+you+in+the+next+commit."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=%3E%3E+Connection+established.;%3E%3E+All+systems+operational.;%3E%3E+Thanks+for+stopping+by.;%3E%3E+See+you+in+the+next+commit." alt="Footer Typing"/>
 
   <br><br>
 
-```text
+```
 ╔════════════════════════════════════════════════════════════╗
 ║                                                            ║
 ║              "BUILD. BREAK. LEARN. REPEAT."                ║
@@ -246,7 +274,7 @@ Prefiro projetos com performance, identidade visual forte e experiência bem pen
 
   <br><br>
 
-  **SYSTEM ONLINE • CODE RUNNING • FUTURE LOADING**
+  **`SYSTEM ONLINE`** • **`CODE RUNNING`** • **`FUTURE LOADING`**
 </div>
 
 <div align="center">
